@@ -1,2 +1,2 @@
 # ToDo-App
-echo "# ToDo-App" >> README.md
+A ToDo App using Node.js, Express.js and EJS to show your ToDo List
